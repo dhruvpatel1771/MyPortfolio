@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Netflix Clone",
+    "imageSrc": "projects/netflix.png",
+    "description": "It is a Netflix frontend Clone (mini project) which was given as a internship task at Renocrew Solutions ",
+    "skills": ["HTML", "CSS"],
+    "demo": "https://dhruvpatel1771.github.io/Netflix-clone-mini-project/",
+    "source": "https://github.com/dhruvpatel1771/Netflix-clone-mini-project"
+  },
+  {
+    "title": "PDF Merger Tool",
+    "imageSrc": "projects/pdf.png",
+    "description": "This is a project made to merge one or more PDFs in to one single PDF",
+    "skills": ["HTML","CSS","Javascript"],
+    "demo": "https://dhruvpatel1771.github.io/MergeX/",
+    "source": "https://github.com/dhruvpatel1771/MergeX"
+  },
+  {
+    "title": "Real State App",
+    "imageSrc": "projects/realestatelogo.png",
+    "description": "This is a real estate project for buying and renting properties",
+    "skills": ["SASS","React", "Express", "Node"],
+    "demo": "https://estatefrontend-fhne7fwk1-dhruv-patels-projects-5e029139.vercel.app/",
+    "source": "https://github.com/dhruvpatel1771/realEstateApp_local"
+  }
+]
